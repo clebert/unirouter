@@ -1,5 +1,5 @@
 {
-  "name": "unirouter",
+  "name": "unirouter-clebert-fork",
   "version": "5.0.0",
   "description": "A minimal routing system built with uniloc and redux",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bkonkle/unirouter.git"
+    "url": "git+https://github.com/clebert/unirouter.git"
   },
   "author": "Brandon Konkle <brandon@konkle.us>",
   "license": "MIT",
@@ -30,7 +30,7 @@
   "dependencies": {
     "react-redux": "^4.0.0",
     "redux-actions": "^0.9.1",
-    "uniloc": "^0.3.0"
+    "uniloc-clebert-fork": "^0.3.1"
   },
   "devDependencies": {
     "babel-cli": "^6.2.0",
