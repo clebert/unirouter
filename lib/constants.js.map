@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/constants.js"],"names":["NAVIGATE"],"mappings":";;;AAAO,IAAMA,8BAAW,UAAjB","file":"constants.js","sourcesContent":["export const NAVIGATE = 'NAVIGATE'\n"]}
