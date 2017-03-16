@@ -28,7 +28,7 @@
     "redux": "^2.0.0 || ^3.0.0"
   },
   "dependencies": {
-    "react-redux": "^4.0.0",
+    "react-redux": "^5.0.3",
     "redux-actions": "^0.9.1",
     "uniloc-clebert-fork": "^0.3.1"
   },
